@@ -1,0 +1,6 @@
+Base path: '/home/parvej/Unity/Hub/Editor/2019.4.12f1/Editor/Data', plugins path '/home/parvej/Unity/Hub/Editor/2019.4.12f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=672 outsize=1316 ok=1
+Cmd: preprocess
+  insize=2414 outsize=2035 ok=1
